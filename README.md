@@ -1,2 +1,3 @@
-# Tagging
-# Team work with Helen Su, Maggie Sha, Haoyu Wang
+# Tagging  
+
+Team work with Helen Su, Maggie Sha, Haoyu Wang
